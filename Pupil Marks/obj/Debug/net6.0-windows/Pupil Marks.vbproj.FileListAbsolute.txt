@@ -1,0 +1,17 @@
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.vbproj.AssemblyReference.cache
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil_Marks.Form1.resources
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.vbproj.GenerateResource.cache
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.AssemblyInfoInputs.cache
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.AssemblyInfo.vb
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.vbproj.CoreCompileInputs.cache
+H:\Visual Studio\Pupil Marks\bin\Debug\net6.0-windows\Pupil Marks.exe
+H:\Visual Studio\Pupil Marks\bin\Debug\net6.0-windows\Pupil Marks.deps.json
+H:\Visual Studio\Pupil Marks\bin\Debug\net6.0-windows\Pupil Marks.runtimeconfig.json
+H:\Visual Studio\Pupil Marks\bin\Debug\net6.0-windows\Pupil Marks.dll
+H:\Visual Studio\Pupil Marks\bin\Debug\net6.0-windows\Pupil Marks.pdb
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.dll
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\refint\Pupil Marks.dll
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.pdb
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\Pupil Marks.genruntimeconfig.cache
+H:\Visual Studio\Pupil Marks\obj\Debug\net6.0-windows\ref\Pupil Marks.dll
