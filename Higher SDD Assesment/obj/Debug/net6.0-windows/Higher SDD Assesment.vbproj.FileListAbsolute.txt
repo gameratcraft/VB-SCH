@@ -1,0 +1,17 @@
+H:\Visual Studio\Higher SDD Assesment\bin\Debug\net6.0-windows\Higher SDD Assesment.exe
+H:\Visual Studio\Higher SDD Assesment\bin\Debug\net6.0-windows\Higher SDD Assesment.deps.json
+H:\Visual Studio\Higher SDD Assesment\bin\Debug\net6.0-windows\Higher SDD Assesment.runtimeconfig.json
+H:\Visual Studio\Higher SDD Assesment\bin\Debug\net6.0-windows\Higher SDD Assesment.dll
+H:\Visual Studio\Higher SDD Assesment\bin\Debug\net6.0-windows\Higher SDD Assesment.pdb
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.vbproj.AssemblyReference.cache
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher_SDD_Assesment.Form1.resources
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.vbproj.GenerateResource.cache
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.AssemblyInfoInputs.cache
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.AssemblyInfo.vb
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.vbproj.CoreCompileInputs.cache
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.dll
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\refint\Higher SDD Assesment.dll
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.pdb
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\Higher SDD Assesment.genruntimeconfig.cache
+H:\Visual Studio\Higher SDD Assesment\obj\Debug\net6.0-windows\ref\Higher SDD Assesment.dll
